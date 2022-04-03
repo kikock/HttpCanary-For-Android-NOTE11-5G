@@ -14,9 +14,13 @@ After the setup, completely close the app.
 
 # Method 1 : 
 
-1. Manual Fix Manually installing the certificates
+## Manual Fix for  installing the certificates
 
-2. Mount system as r/w (ES File Explorer should do this automatically).
+### Device Must and Rooted
+
+1. Install http Canary app
+
+2. INSTALL Mt Manager app or any root file explorer 
 
 3. Using ES File Explorer (I had problems using other root browsers), head over to '/data/data/com.guoshi.httpcanary.premium/cache' and copy 'HttpCanary.pem' and 'HttpCanary.p12' to your phones accessible storage (such as Downloads or Documents).
 
