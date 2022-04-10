@@ -22,7 +22,7 @@ After the setup, completely close the app.
 
 2. INSTALL Mt Manager app or any root file explorer 
 
-3. Using ES File Explorer (I had problems using other root browsers), head over to '/data/data/com.guoshi.httpcanary.premium/cache' and copy 'HttpCanary.pem' and 'HttpCanary.p12' to your phones accessible storage (such as Downloads or Documents).
+3. Using ES File Explorer (I had problems using other root browsers), head over to `/data/data/com.guoshi.httpcanary.premium/cache` and copy `HttpCanary.pem` and `HttpCanary.p12` to your phones accessible storage (such as Downloads or Documents).
 
 4. Open up the 'settings app > Biometrics & Security > Other Security Settings > Install from device storage'.
 
