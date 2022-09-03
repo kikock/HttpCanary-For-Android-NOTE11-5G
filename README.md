@@ -31,4 +31,6 @@ After the setup, completely close the app.
 11. Create a copy of the 'HttpCanary.pem' file in the same directory and rename it to `87bc3517.0`.
 12. That's it 
 
+**Note:** 
+If HTTPS not captured [use this method](https://www.reddit.com/r/androidroot/comments/x4lcwb/httpcanary_capture_https_requests_bypass/?utm_medium=android_app&utm_source=share)
 Note: If you can't decode https, install [MagiskTrustUserCerts](https://github.com/NVISOsecurity/MagiskTrustUserCerts) via Magisk. For Chinese users you can also ref [HttpCanary 在 Android 11 上的使用 - 简单逆向分析 ](https://www.cnblogs.com/ercilan/p/14386362.html).
