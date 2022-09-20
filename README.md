@@ -1,10 +1,10 @@
 # Http-Canary-For-Android-11Backup-file
 This is just a backup repo for me to install http Canary in Android 11 , i don't need to search the internet for this modded application
-
-
 Make sure your device is rooted before following this guide.
 
-# Installation
+
+
+## Installation
 
 Firstly, install HttpCanary as you normally would from the website here.
 
@@ -12,11 +12,11 @@ After it is installed, go through the usual setup ignoring the fact you cannot i
 
 After the setup, completely close the app.
 
-# Method 1 : 
 
-## Manual Fix for  installing the certificates
 
-### Device Must and Rooted
+## Manual Fix for installing the certificates
+
+**Device Must and Rooted**
 
 1. Install http Canary app
 2. INSTALL Mt Manager app or any root file explorer 
@@ -31,6 +31,9 @@ After the setup, completely close the app.
 11. Create a copy of the 'HttpCanary.pem' file in the same directory and rename it to `87bc3517.0`.
 12. That's it 
 
-**Note:** 
-If HTTPS not captured [use this method](https://www.reddit.com/r/androidroot/comments/x4lcwb/httpcanary_capture_https_requests_bypass/?utm_medium=android_app&utm_source=share)
-Note: If you can't decode https, install [MagiskTrustUserCerts](https://github.com/NVISOsecurity/MagiskTrustUserCerts) via Magisk. For Chinese users you can also ref [HttpCanary 在 Android 11 上的使用 - 简单逆向分析 ](https://www.cnblogs.com/ercilan/p/14386362.html).
+
+
+## Note:
+
+- If HTTPS not captured [use this method](https://www.reddit.com/r/androidroot/comments/x4lcwb/httpcanary_capture_https_requests_bypass/?utm_medium=android_app&utm_source=share)
+- If you can't decode https, install [MagiskTrustUserCerts](https://github.com/NVISOsecurity/MagiskTrustUserCerts) via Magisk. For Chinese users you can also ref [HttpCanary 在 Android 11 上的使用 - 简单逆向分析 ](https://www.cnblogs.com/ercilan/p/14386362.html).
